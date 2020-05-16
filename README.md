@@ -4,6 +4,8 @@ FlipClock
 Arduino based FlipClock style alarm clock
 -------------------------------------------
 
+![Video](docs/I_got_you_babe.webm)
+
 .. figure:: docs/movie_clock.png
    :alt:  None
 
