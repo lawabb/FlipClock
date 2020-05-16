@@ -4,11 +4,10 @@ FlipClock
 Arduino based FlipClock style alarm clock
 -------------------------------------------
 
+![Video](docs/I_got_you_babe.mp4)
 
-<video width="1280" height="720" controls>
-  <source src="docs/I_got_got_you_babe.mp4" type="video/mp4">
-</video>
-
+.. figure:: docs/movie_clock.png
+   :alt:  None
 
 This project aims to build a FlipClock style alarm clock (software emulated flips on a small screen) like the one used in the movie Groundhog Day, and play "I've got you babe" (or other sound clip).  
   
